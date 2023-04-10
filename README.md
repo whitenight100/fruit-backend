@@ -30,10 +30,10 @@ dbname => 'fruity'
 username => 'root'
 password => ''
 
-2. Run yii server with command in root directory
+3. Run yii server with command in root directory
 
 'php yii serve'
 
-3. Run this command to insert the fruits into the MySQL DB
+4. Run this command to insert the fruits into the MySQL DB
 
 'php yii fruit'
