@@ -25,6 +25,11 @@ http://localhost/basic/web/
 1. git clone repo
 'git clone https://github.com/whitenight100/fruit-backend.git'
 
+2. create the MySQL database
+dbname => 'fruity'
+username => 'root'
+password => ''
+
 2. Run yii server with command in root directory
 
 'php yii serve'
